@@ -1,2 +1,3 @@
-First Line
-Second Line
+Hello, this is a quick test file.
+I am trying yo relearn Python, and it is super fun!
+Once I am done, I will hop back to Java, which is a pain.
